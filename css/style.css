@@ -77,9 +77,9 @@ Do not modify the list items or the links - modify the nav_links class to use fl
 
 
 /* Step 5: Style the links so that they have the same color even after they have been visited. */
-a:visited{
+a, a:visited{
 
-    color: #50C7C7;
+    color: blue;
 
 }
 
